@@ -4,6 +4,7 @@ A long time ago in a unix environment far, far away, young Jedi padawans who kne
 
 ## Terminal Commands
 
+- `pwd`: full path to working directory
 - `cd <directory_path>`: change directories
   - `cd ~/` : go to user directory
   - `cd ../` : go up one directory
