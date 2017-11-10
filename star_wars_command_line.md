@@ -17,7 +17,7 @@ A long time ago in a unix environment far, far away, young Jedi padawans who kne
 - `rm <filepath>`: removes a file
   - `rm -r`: removes all files in a directory
   - `rm -rf`: forcibly removes a directory and all its files
-- `subl <filepath>`: opens a file in Sublime Text
+- `code <filepath>`: opens a file in Sublime Text
 
 ## Going to the Dark Side
 Place your hands on your keyboard, and let the Force flow through your finger tips. No touching your mousepad!
@@ -33,7 +33,7 @@ Place your hands on your keyboard, and let the Force flow through your finger ti
 9. Enter the Alderaan directory.
 10. Create three news files: "**.voice1**", "**.voice2**", "**.voice3**".
 11. List the voices of Alderaan in the terminal.
-12. Open each voice in Sublime Text, and save their contents as:
+12. Open each voice in Visual Studio Code, and save their contents as:
 	- "**terror!**"
 	- "**Terror!**"
 	- "**TERROR!**"
